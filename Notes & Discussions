@@ -1,0 +1,43 @@
+Q3. Create a Patient Class with a Parameterised Constructor to
+load the following data into each instance:
+1. patientName
+2. patientAge
+3. doa (dateOfArrival)
+4. disease
+Your class should have a method called patientDetails() which when called
+should display all the attributes.
+Note:
+The diseases should be any one from :
+a) Malaria
+b) Jaundice
+c) Influenza
+d) SARS-COVID-19
+Accenture : May 2023, InfoSys - April 2024 - TCS - June 2024
+Create a Information CLass which has the parameters :
+blockNo, floorNo, roomNo, bedNo.
+Payment Class : admFees, regFees, balAmt;
+When you call the patientDetails() method, these should be displayed as well.
+
+HackerRank 8.5 LPA InfoSys / Accenture / DXC / TackleBox
+Problem Statement:
+
+Design a Java program to automate the creation of student folders, course files,
+and writing project names into those files based on predefined data arrays.
+The program should read the arrays of student names, course names, and project names.
+For each student, it should create a separate folder with the student's name and within that folder,
+create a file named after the course they are enrolled in.
+The program should then write the corresponding project name into the respective course file.
+
+Requirements:
+1. The program should use the provided arrays of student names, course names, and project names.
+2. The base path for creating folders and files should be set to "./Folders/UserName/".
+3. Each student folder should contain a single file named after the course they are enrolled in.
+4. The program should handle any errors that may occur during folder and file creation,
+   displaying appropriate error messages.
+5. The program should successfully write the corresponding project name into each course file.
+6. Ensure the program closes the file writer after writing data into the file.
+7. After execution, the program should create the necessary folder structure and files with the
+appropriate data.
+
+Note: The program should be executed with the necessary permissions to create folders and files in the
+specified directory.
