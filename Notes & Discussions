@@ -41,3 +41,8 @@ appropriate data.
 
 Note: The program should be executed with the necessary permissions to create folders and files in the
 specified directory.
+
+TackleBoX, TCS, InfoSys, Accenture, Wipro Technologies :
+Write a java program to display the current date & time in the format:
+1) Thu, Jun 13 2024
+2) 165, Jun 13 2024
